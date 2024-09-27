@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlbertoTrujillo-ITB2425
+- 👀 I'm interested in cybersecurity, computing and new technologies.
+- 🌱 I’m currently learning about cybersecurity and how to protect computer systems.
+- 💞️ I'm looking to collaborate on projects related to computer security and secure software development.
+- 📫 How to reach me: You can contact me through my email [alberto.trujillo.7e6@itb.cat]
+- ⚡ Fun fact: I love learning about ethical hacking and I'm always looking for new challenges!
