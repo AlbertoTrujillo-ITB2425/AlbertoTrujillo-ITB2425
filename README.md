@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertoTrujillo-ITB2425
+- 👋 Hi, I’m Alberto Trujillo
 - 👀 I'm interested in cybersecurity, computing and new technologies.
 - 🌱 I’m currently learning about cybersecurity and how to protect computer systems.
 - 💞️ I'm looking to collaborate on projects related to computer security and secure software development.
