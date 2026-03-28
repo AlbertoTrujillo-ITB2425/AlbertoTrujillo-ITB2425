@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Alberto Trujillo
-- 👀 I'm interested in cybersecurity, computing and new technologies.
-- 🌱 I’m currently learning about cybersecurity and how to protect computer systems.
-- 💞️ I'm looking to collaborate on projects related to computer security and secure software development.
-- 📫 How to reach me: You can contact me through my email [alberto.trujillo.7e6@itb.cat]
-- ⚡ Fun fact: I love learning about ethical hacking and I'm always looking for new challenges!
+# Hi, I'm Alberto Trujillo 👋
+
+Cybersecurity student passionate about ethical hacking and secure software development.
+Currently learning how to protect systems — and how attackers try to break them.
+
+Open to collaborating on security tools and CTF challenges.
+
+📧 alberto.trujillo.7e6@itb.cat
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertotrujillo&show_icons=true&hide_border=true&count_private=true)
