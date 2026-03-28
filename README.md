@@ -1,6 +1,7 @@
-# Hi, I'm Alberto Trujillo
+# 👋 Hi, I'm Alberto Trujillo
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=200&section=header&text=Ethical%20Hacker%20&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=200&section=header&text=Ethical%20Hacker&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -11,16 +12,16 @@
 
 ---
 
-### Quick Overview
+### 🔍 Quick Overview
 I am a tech enthusiast currently diving deep into **Cybersecurity**. My focus is on understanding vulnerabilities to build more resilient and secure systems.
 
-* **Collaboration:** Open to Open Source security projects & secure development.
-* **Fun Fact:** I love solving CTFs and exploring new ethical hacking challenges.
-* **Reach me:** [`alberto.trujillo.7e6@itb.cat`](mailto:alberto.trujillo.7e6@itb.cat)
+* 🤝 **Collaboration:** Open to Open Source security projects & secure development.
+* ⚡ **Fun Fact:** I love solving CTFs and exploring new ethical hacking challenges.
+* 📧 **Reach me:** [`alberto.trujillo.7e6@itb.cat`](mailto:alberto.trujillo.7e6@itb.cat)
 
 ---
 
-### My Toolbox
+### 🛠️ My Toolbox
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -32,9 +33,8 @@ I am a tech enthusiast currently diving deep into **Cybersecurity**. My focus is
 
 ---
 
-### GitHub Activity
+### 📊 GitHub Activity
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoTrujillo-ITB2425&layout=compact&theme=tokyonight&border_radius=10" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlbertoTrujillo-ITB2425&theme=tokyonight" />
 </p>
-
